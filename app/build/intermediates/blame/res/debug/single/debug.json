@@ -1,0 +1,258 @@
+[
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_cancel_64px.png.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\drawable-xhdpi\\cancel_64px.png"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\raw_welcome_en.aac.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\raw\\welcome_en.aac"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\layout_taibahu.xml.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\layout\\taibahu.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_back_64px.png.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\drawable-xhdpi\\back_64px.png"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\layout_brunei_ar.xml.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\layout\\brunei_ar.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_share_ar.xml.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\layout\\app_share_ar.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\layout_about_us_ar.xml.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\layout\\about_us_ar.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\layout_homepage_ar.xml.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\layout\\homepage_ar.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_scews_logo.png.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\drawable-xhdpi\\scews_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\layout_settings_ar.xml.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\layout\\settings_ar.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\layout_uhb.xml.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\layout\\uhb.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\layout_turkey_ar.xml.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\layout\\turkey_ar.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\layout_ut_.xml.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\layout\\ut_.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\layout_kku.xml.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\layout\\kku.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\layout__drawer_homepage_ar.xml.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\layout\\_drawer_homepage_ar.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\layout_uqu.xml.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\layout\\uqu.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\layout_uni_select_contry_ar.xml.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\layout\\uni_select_contry_ar.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\layout_browser.xml.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\layout\\browser.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\layout_saudi_ar.xml.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\layout\\saudi_ar.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\layout_kau_h.xml.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\layout\\kau_h.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\layout_jazanu.xml.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\layout\\jazanu.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\layout_tu_.xml.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\layout\\tu_.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_mobile_64px.png.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\drawable-xhdpi\\mobile_64px.png"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\layout_ksu.xml.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\layout\\ksu.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\raw_welcome_ar.aac.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\raw\\welcome_ar.aac"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_desktop_64px.png.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\drawable-xhdpi\\desktop_64px.png"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\layout_imamu.xml.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\layout\\imamu.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\layout_welcome_ar.xml.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\layout\\welcome_ar.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\layout_ju_.xml.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\layout\\ju_.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\layout_malaysia_ar.xml.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\layout\\malaysia_ar.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\layout_iu_.xml.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\layout\\iu_.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_errorr.png.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\drawable-xhdpi\\errorr.png"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\layout_guidelines_ar.xml.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\layout\\guidelines_ar.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\layout_nbu.xml.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\layout\\nbu.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_forward_64px.png.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\drawable-xhdpi\\forward_64px.png"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_error_cloud_win_96.png.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\drawable-xhdpi\\error_cloud_win_96.png"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\layout_nu_.xml.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\layout\\nu_.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\layout_mu_.xml.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\layout\\mu_.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_scews_welcomescreen.png.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\drawable-xhdpi\\scews_welcomescreen.png"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\layout_news_ar.xml.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\layout\\news_ar.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\layout_isdb.xml.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\layout\\isdb.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_eng.png.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\drawable-xhdpi\\eng.png"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_homepage_64px.png.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\drawable-xhdpi\\homepage_64px.png"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\layout_login_issue_ar.xml.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\layout\\login_issue_ar.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bng.png.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\drawable-xhdpi\\bng.png"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_refresh_64px.png.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\drawable-xhdpi\\refresh_64px.png"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_exit_64px.png.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\drawable-xhdpi\\exit_64px.png"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\layout_login_ar.xml.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\layout\\login_ar.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_app_icon.png.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\drawable-xhdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\layout_privacy_policy_ar.xml.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\layout\\privacy_policy_ar.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\layout_need2know_ar.xml.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\layout\\need2know_ar.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\layout_signup_ar.xml.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\layout\\signup_ar.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\layout_browser_error.xml.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\layout\\browser_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_arb.png.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\drawable-xhdpi\\arb.png"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\layout_egypt_ar.xml.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\layout\\egypt_ar.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\layout_uae_ar.xml.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\layout\\uae_ar.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\layout_pnu.xml.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\layout\\pnu.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\layout_simple.xml.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\layout\\simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\layout_running_apply_ar.xml.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\layout\\running_apply_ar.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_default_image.png.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\drawable-xhdpi\\default_image.png"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\layout_qatar_ar.xml.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\layout\\qatar_ar.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\layout_iau.xml.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\layout\\iau.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\build\\intermediates\\res\\merged\\debug\\layout_kau_m.xml.flat",
+        "source": "C:\\Users\\rasel\\AndroidStudioProjects\\scEWS\\app\\src\\main\\res\\layout\\kau_m.xml"
+    }
+]

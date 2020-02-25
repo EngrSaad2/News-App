@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "45437445666",
+    "firebase_url": "https://scews-229f6.firebaseio.com",
+    "project_id": "scews-229f6",
+    "storage_bucket": "scews-229f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45437445666:android:27196cb02f1ca3441e4c7b",
+        "android_client_info": {
+          "package_name": "com.menha.scews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45437445666-cbig14g0bijclk79iejp9if0nl4ngrf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKes8o4CmcEEErDSDmq3SmtLEmEDAlmRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45437445666-cbig14g0bijclk79iejp9if0nl4ngrf9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

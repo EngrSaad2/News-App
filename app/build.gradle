@@ -1,0 +1,30 @@
+apply plugin: 'com.android.application'
+
+android {
+	useLibrary 'org.apache.http.legacy'
+	compileSdkVersion 29
+	
+	defaultConfig {
+		applicationId "com.menha.scews"
+		minSdkVersion 21
+		targetSdkVersion 29
+		versionCode 4
+		versionName "1.0.010"
+	}
+	buildTypes {
+		release {
+			minifyEnabled false
+			proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+		}
+	}
+}
+
+dependencies {
+	implementation fileTree(dir: 'libs', include: ['*.jar'])
+	implementation 'androidx.appcompat:appcompat:1.1.0'
+	implementation 'com.google.android.material:material:1.1.0'
+	implementation 'com.google.firebase:firebase-database:19.2.1'
+	implementation 'com.github.bumptech.glide:glide:4.11.0'
+	implementation 'com.google.code.gson:gson:2.8.6'
+	implementation 'com.squareup.okhttp3:okhttp:4.3.1'
+}

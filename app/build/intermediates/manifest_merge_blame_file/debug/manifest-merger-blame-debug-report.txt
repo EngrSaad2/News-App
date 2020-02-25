@@ -1,0 +1,459 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.menha.scews"
+4    android:versionCode="4"
+5    android:versionName="1.0.010" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:4:2-63
+11-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:4:19-61
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:5:2-75
+12-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:5:19-73
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:6:2-76
+13-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:6:19-74
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:7:2-77
+14-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:7:19-75
+15
+16    <application
+16-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:10:2-217:16
+17        android:allowBackup="true"
+17-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:12:3-29
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.1.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\64cddd45e89bc3894cf7e46e3178d8e4\core-1.1.0\AndroidManifest.xml:24:18-86
+19        android:debuggable="true"
+20        android:icon="@drawable/app_icon"
+20-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:14:3-36
+21        android:label="scEWS - Scholarship News"
+21-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:13:3-43
+22        android:largeHeap="true"
+22-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:15:3-27
+23        android:testOnly="true"
+24        android:theme="@style/AppTheme" >
+24-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:16:3-34
+25        <activity
+25-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:17:3-26:14
+26            android:name="com.menha.scews.MainActivity"
+26-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:18:4-32
+27            android:configChanges="orientation|screenSize"
+27-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:19:4-50
+28            android:screenOrientation="portrait"
+28-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:21:4-40
+29            android:theme="@style/AppTheme.FullScreen" >
+29-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:20:4-46
+30            <intent-filter>
+30-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:22:4-25:20
+31                <action android:name="android.intent.action.MAIN" />
+31-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:23:5-56
+31-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:23:13-54
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:24:5-64
+33-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:24:15-62
+34            </intent-filter>
+35        </activity>
+36        <activity
+36-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:27:3-30:42
+37            android:name="com.menha.scews.LoginArActivity"
+37-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:28:4-35
+38            android:configChanges="orientation|screenSize"
+38-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:29:4-50
+39            android:screenOrientation="portrait" />
+39-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:30:4-40
+40        <activity
+40-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:31:3-34:42
+41            android:name="com.menha.scews.SignupArActivity"
+41-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:32:4-36
+42            android:configChanges="orientation|screenSize"
+42-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:33:4-50
+43            android:screenOrientation="portrait" />
+43-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:34:4-40
+44        <activity
+44-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:35:3-38:42
+45            android:name="com.menha.scews.LoginIssueArActivity"
+45-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:36:4-40
+46            android:configChanges="orientation|screenSize"
+46-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:37:4-50
+47            android:screenOrientation="portrait" />
+47-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:38:4-40
+48        <activity
+48-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:39:3-42:42
+49            android:name="com.menha.scews.HomepageArActivity"
+49-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:40:4-38
+50            android:configChanges="orientation|screenSize"
+50-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:41:4-50
+51            android:screenOrientation="portrait" />
+51-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:42:4-40
+52        <activity
+52-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:43:3-46:42
+53            android:name="com.menha.scews.GuidelinesArActivity"
+53-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:44:4-40
+54            android:configChanges="orientation|screenSize"
+54-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:45:4-50
+55            android:screenOrientation="portrait" />
+55-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:46:4-40
+56        <activity
+56-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:47:3-50:42
+57            android:name="com.menha.scews.PrivacyPolicyArActivity"
+57-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:48:4-43
+58            android:configChanges="orientation|screenSize"
+58-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:49:4-50
+59            android:screenOrientation="portrait" />
+59-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:50:4-40
+60        <activity
+60-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:51:3-54:42
+61            android:name="com.menha.scews.AppShareArActivity"
+61-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:52:4-38
+62            android:configChanges="orientation|screenSize"
+62-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:53:4-50
+63            android:screenOrientation="portrait" />
+63-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:54:4-40
+64        <activity
+64-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:55:3-58:42
+65            android:name="com.menha.scews.AboutUsArActivity"
+65-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:56:4-37
+66            android:configChanges="orientation|screenSize"
+66-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:57:4-50
+67            android:screenOrientation="portrait" />
+67-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:58:4-40
+68        <activity
+68-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:59:3-62:42
+69            android:name="com.menha.scews.SettingsArActivity"
+69-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:60:4-38
+70            android:configChanges="orientation|screenSize"
+70-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:61:4-50
+71            android:screenOrientation="portrait" />
+71-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:62:4-40
+72        <activity
+72-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:63:3-66:42
+73            android:name="com.menha.scews.RunningApplyArActivity"
+73-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:64:4-42
+74            android:configChanges="orientation|screenSize"
+74-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:65:4-50
+75            android:screenOrientation="portrait" />
+75-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:66:4-40
+76        <activity
+76-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:67:3-70:42
+77            android:name="com.menha.scews.NewsArActivity"
+77-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:68:4-34
+78            android:configChanges="orientation|screenSize"
+78-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:69:4-50
+79            android:screenOrientation="portrait" />
+79-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:70:4-40
+80        <activity
+80-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:71:3-74:42
+81            android:name="com.menha.scews.Need2knowArActivity"
+81-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:72:4-39
+82            android:configChanges="orientation|screenSize"
+82-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:73:4-50
+83            android:screenOrientation="portrait" />
+83-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:74:4-40
+84        <activity
+84-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:75:3-78:42
+85            android:name="com.menha.scews.UniSelectContryArActivity"
+85-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:76:4-45
+86            android:configChanges="orientation|screenSize"
+86-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:77:4-50
+87            android:screenOrientation="portrait" />
+87-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:78:4-40
+88        <activity
+88-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:79:3-82:42
+89            android:name="com.menha.scews.SaudiArActivity"
+89-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:80:4-35
+90            android:configChanges="orientation|screenSize"
+90-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:81:4-50
+91            android:screenOrientation="portrait" />
+91-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:82:4-40
+92        <activity
+92-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:83:3-86:42
+93            android:name="com.menha.scews.TurkeyArActivity"
+93-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:84:4-36
+94            android:configChanges="orientation|screenSize"
+94-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:85:4-50
+95            android:screenOrientation="portrait" />
+95-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:86:4-40
+96        <activity
+96-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:87:3-90:42
+97            android:name="com.menha.scews.EgyptArActivity"
+97-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:88:4-35
+98            android:configChanges="orientation|screenSize"
+98-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:89:4-50
+99            android:screenOrientation="portrait" />
+99-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:90:4-40
+100        <activity
+100-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:91:3-94:42
+101            android:name="com.menha.scews.QatarArActivity"
+101-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:92:4-35
+102            android:configChanges="orientation|screenSize"
+102-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:93:4-50
+103            android:screenOrientation="portrait" />
+103-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:94:4-40
+104        <activity
+104-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:95:3-98:42
+105            android:name="com.menha.scews.UaeArActivity"
+105-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:96:4-33
+106            android:configChanges="orientation|screenSize"
+106-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:97:4-50
+107            android:screenOrientation="portrait" />
+107-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:98:4-40
+108        <activity
+108-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:99:3-102:42
+109            android:name="com.menha.scews.BruneiArActivity"
+109-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:100:4-36
+110            android:configChanges="orientation|screenSize"
+110-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:101:4-50
+111            android:screenOrientation="portrait" />
+111-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:102:4-40
+112        <activity
+112-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:103:3-106:42
+113            android:name="com.menha.scews.MalaysiaArActivity"
+113-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:104:4-38
+114            android:configChanges="orientation|screenSize"
+114-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:105:4-50
+115            android:screenOrientation="portrait" />
+115-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:106:4-40
+116        <activity
+116-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:107:3-110:42
+117            android:name="com.menha.scews.Iu_Activity"
+117-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:108:4-31
+118            android:configChanges="orientation|screenSize"
+118-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:109:4-50
+119            android:screenOrientation="portrait" />
+119-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:110:4-40
+120        <activity
+120-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:111:3-114:42
+121            android:name="com.menha.scews.KauMActivity"
+121-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:112:4-32
+122            android:configChanges="orientation|screenSize"
+122-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:113:4-50
+123            android:screenOrientation="portrait" />
+123-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:114:4-40
+124        <activity
+124-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:115:3-118:42
+125            android:name="com.menha.scews.KauHActivity"
+125-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:116:4-32
+126            android:configChanges="orientation|screenSize"
+126-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:117:4-50
+127            android:screenOrientation="portrait" />
+127-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:118:4-40
+128        <activity
+128-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:119:3-122:42
+129            android:name="com.menha.scews.KsuActivity"
+129-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:120:4-31
+130            android:configChanges="orientation|screenSize"
+130-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:121:4-50
+131            android:screenOrientation="portrait" />
+131-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:122:4-40
+132        <activity
+132-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:123:3-126:42
+133            android:name="com.menha.scews.UquActivity"
+133-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:124:4-31
+134            android:configChanges="orientation|screenSize"
+134-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:125:4-50
+135            android:screenOrientation="portrait" />
+135-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:126:4-40
+136        <activity
+136-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:127:3-130:42
+137            android:name="com.menha.scews.ImamuActivity"
+137-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:128:4-33
+138            android:configChanges="orientation|screenSize"
+138-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:129:4-50
+139            android:screenOrientation="portrait" />
+139-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:130:4-40
+140        <activity
+140-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:131:3-134:42
+141            android:name="com.menha.scews.Nu_Activity"
+141-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:132:4-31
+142            android:configChanges="orientation|screenSize"
+142-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:133:4-50
+143            android:screenOrientation="portrait" />
+143-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:134:4-40
+144        <activity
+144-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:135:3-138:42
+145            android:name="com.menha.scews.PnuActivity"
+145-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:136:4-31
+146            android:configChanges="orientation|screenSize"
+146-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:137:4-50
+147            android:screenOrientation="portrait" />
+147-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:138:4-40
+148        <activity
+148-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:139:3-142:42
+149            android:name="com.menha.scews.Tu_Activity"
+149-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:140:4-31
+150            android:configChanges="orientation|screenSize"
+150-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:141:4-50
+151            android:screenOrientation="portrait" />
+151-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:142:4-40
+152        <activity
+152-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:143:3-146:42
+153            android:name="com.menha.scews.Mu_Activity"
+153-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:144:4-31
+154            android:configChanges="orientation|screenSize"
+154-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:145:4-50
+155            android:screenOrientation="portrait" />
+155-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:146:4-40
+156        <activity
+156-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:147:3-150:42
+157            android:name="com.menha.scews.NbuActivity"
+157-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:148:4-31
+158            android:configChanges="orientation|screenSize"
+158-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:149:4-50
+159            android:screenOrientation="portrait" />
+159-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:150:4-40
+160        <activity
+160-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:151:3-154:42
+161            android:name="com.menha.scews.Ju_Activity"
+161-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:152:4-31
+162            android:configChanges="orientation|screenSize"
+162-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:153:4-50
+163            android:screenOrientation="portrait" />
+163-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:154:4-40
+164        <activity
+164-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:155:3-158:42
+165            android:name="com.menha.scews.UhbActivity"
+165-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:156:4-31
+166            android:configChanges="orientation|screenSize"
+166-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:157:4-50
+167            android:screenOrientation="portrait" />
+167-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:158:4-40
+168        <activity
+168-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:159:3-162:42
+169            android:name="com.menha.scews.TaibahuActivity"
+169-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:160:4-35
+170            android:configChanges="orientation|screenSize"
+170-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:161:4-50
+171            android:screenOrientation="portrait" />
+171-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:162:4-40
+172        <activity
+172-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:163:3-166:42
+173            android:name="com.menha.scews.JazanuActivity"
+173-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:164:4-34
+174            android:configChanges="orientation|screenSize"
+174-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:165:4-50
+175            android:screenOrientation="portrait" />
+175-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:166:4-40
+176        <activity
+176-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:167:3-170:42
+177            android:name="com.menha.scews.Ut_Activity"
+177-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:168:4-31
+178            android:configChanges="orientation|screenSize"
+178-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:169:4-50
+179            android:screenOrientation="portrait" />
+179-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:170:4-40
+180        <activity
+180-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:171:3-174:42
+181            android:name="com.menha.scews.IauActivity"
+181-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:172:4-31
+182            android:configChanges="orientation|screenSize"
+182-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:173:4-50
+183            android:screenOrientation="portrait" />
+183-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:174:4-40
+184        <activity
+184-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:175:3-178:42
+185            android:name="com.menha.scews.KkuActivity"
+185-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:176:4-31
+186            android:configChanges="orientation|screenSize"
+186-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:177:4-50
+187            android:screenOrientation="portrait" />
+187-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:178:4-40
+188        <activity
+188-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:179:3-183:42
+189            android:name="com.menha.scews.WelcomeArActivity"
+189-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:180:4-37
+190            android:configChanges="orientation|screenSize"
+190-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:181:4-50
+191            android:screenOrientation="portrait"
+191-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:183:4-40
+192            android:theme="@style/AppTheme.FullScreen" />
+192-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:182:4-46
+193        <activity
+193-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:184:3-187:42
+194            android:name="com.menha.scews.SimpleActivity"
+194-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:185:4-34
+195            android:configChanges="orientation|screenSize"
+195-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:186:4-50
+196            android:screenOrientation="portrait" />
+196-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:187:4-40
+197        <activity
+197-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:188:3-191:42
+198            android:name="com.menha.scews.IsdbActivity"
+198-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:189:4-32
+199            android:configChanges="orientation|screenSize"
+199-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:190:4-50
+200            android:screenOrientation="portrait" />
+200-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:191:4-40
+201        <activity
+201-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:192:3-194:52
+202            android:name="com.menha.scews.BrowserActivity"
+202-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:193:4-35
+203            android:configChanges="orientation|screenSize" />
+203-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:194:4-50
+204        <activity
+204-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:195:3-198:42
+205            android:name="com.menha.scews.BrowserErrorActivity"
+205-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:196:4-40
+206            android:configChanges="orientation|screenSize"
+206-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:197:4-50
+207            android:screenOrientation="portrait" />
+207-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:198:4-40
+208
+209        <meta-data
+209-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:199:3-201:59
+210            android:name="com.google.android.gms.version"
+210-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:200:4-49
+211            android:value="@integer/google_play_services_version" />
+211-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:201:4-57
+212
+213        <provider
+213-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:202:3-206:29
+214            android:name="com.google.firebase.provider.FirebaseInitProvider"
+214-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:203:4-68
+215            android:authorities="com.menha.scews.firebaseinitprovider"
+215-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:204:4-62
+216            android:exported="false"
+216-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:205:4-28
+217            android:initOrder="100" />
+217-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:206:4-27
+218
+219        <service
+219-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:207:3-213:13
+220            android:name="com.google.firebase.components.ComponentDiscoveryService"
+220-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:208:4-75
+221            android:directBootAware="true"
+221-->[com.google.firebase:firebase-common:19.3.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\3f1cce472841f11fe16cf955f9472ba3\firebase-common-19.3.0\AndroidManifest.xml:34:13-43
+222            android:exported="false" >
+222-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:209:4-28
+223            <meta-data
+223-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:210:4-212:72
+224                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+224-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:211:5-97
+225                android:value="com.google.firebase.components.ComponentRegistrar" />
+225-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:212:5-70
+226        </service>
+227
+228        <uses-library
+228-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:214:3-216:30
+229            android:name="org.apache.http.legacy"
+229-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:215:4-41
+230            android:required="false" />
+230-->C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:216:4-28
+231
+232        <activity
+232-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\37be93d88503de7454be5a5f96957cac\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+233            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+233-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\37be93d88503de7454be5a5f96957cac\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+234            android:exported="false"
+234-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\37be93d88503de7454be5a5f96957cac\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+235            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+235-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\37be93d88503de7454be5a5f96957cac\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+236    </application>
+237
+238</manifest>

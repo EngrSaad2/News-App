@@ -1,0 +1,624 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:1:1-218:12
+INJECTED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:1:1-218:12
+INJECTED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:1:1-218:12
+INJECTED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:1:1-218:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\299b341910a01778c1031d8bc586e870\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\deae1025afce5eec85ff8ccbcc9e7c1f\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database:19.2.1] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\29aa42da2f826000f5d1c394f05ac74a\firebase-database-19.2.1\AndroidManifest.xml:15:1-38:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\670f625b815a4900eedfd1b9e0cdde04\glide-4.11.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\a4212b4de23e474bf4daad6e4951aaee\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\b38978de3ad901bc15905cc316b0a257\firebase-auth-interop-18.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\37be93d88503de7454be5a5f96957cac\play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\3f1cce472841f11fe16cf955f9472ba3\firebase-common-19.3.0\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\e9f0acc79fadc9fbad6bf080176f6020\play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\2465f099dd7150b541b6b858bc6f977b\play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\09c714b0217baa06cc11f82a42f808d7\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\eea3c3379f1143f4ea143ac500464bfe\appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\06b812f6d774b24152207909eeade351\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\192eda949ad795e15bd17fc9b0e814a6\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\67683a0eeac071989693f58740fd22e9\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\bf1332ee565e502eb50b0443b6d962bf\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\4c101d10aee151684f1d60fff95912c7\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\17f9bddc9992d9e356f424e919c9a01c\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\c3c67a6b0c567715c1b761e2bc561a80\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\1c4c8673f0e741e0bcbd9526ca6b8b67\activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\14c9a7f7e0895a28c40b2aeb1236e906\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\88885b8afb892f2c4c92950308f02240\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\64cddd45e89bc3894cf7e46e3178d8e4\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\102edf060ace7f6700d22f562ffc82af\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\a4fafc86370755d7c904d03ef3971083\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\79ec9f0fb008e367a10ee5adcc081489\firebase-components-16.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\d6b398578fb6a91ae4dbe521358602cb\gifdecoder-4.11.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\51fbd676cad088c8a4d58d2bba77ef58\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\07660ca846398cb3c0ec9a442510d6ee\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\11f25004d330e2f547128b83f4573f71\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\f7483b19bb1e83b1018e6bf27f210e99\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\5e17b2c11736659b6b2e8c71ecf06d4b\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\d1e480b7a3e38bc5bb2c563b2e91c373\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\54bb5691b6f84ec3f5721158cbfd6093\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\595abc47a2d4a55785d80658cffde5e2\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\d4f6c3b74c9a46c978ee06464d9d874f\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\58f236cbc26449ac082fe05f157232b7\firebase-database-collection-17.0.0\AndroidManifest.xml:2:1-7:12
+INJECTED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:1:1-218:12
+INJECTED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:1:1-218:12
+INJECTED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:1:1-218:12
+	package
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:3:2-27
+		INJECTED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:1:1-218:12
+		INJECTED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:1:1-218:12
+		INJECTED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:2:2-60
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:4:2-63
+MERGED from [com.google.firebase:firebase-database:19.2.1] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\29aa42da2f826000f5d1c394f05ac74a\firebase-database-19.2.1\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:19.2.1] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\29aa42da2f826000f5d1c394f05ac74a\firebase-database-19.2.1\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:4:19-61
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:5:2-75
+MERGED from [com.google.firebase:firebase-database:19.2.1] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\29aa42da2f826000f5d1c394f05ac74a\firebase-database-19.2.1\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-database:19.2.1] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\29aa42da2f826000f5d1c394f05ac74a\firebase-database-19.2.1\AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:5:19-73
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:6:2-76
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:6:19-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:7:2-77
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:7:19-75
+application
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:10:2-217:16
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\299b341910a01778c1031d8bc586e870\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\299b341910a01778c1031d8bc586e870\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database:19.2.1] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\29aa42da2f826000f5d1c394f05ac74a\firebase-database-19.2.1\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:19.2.1] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\29aa42da2f826000f5d1c394f05ac74a\firebase-database-19.2.1\AndroidManifest.xml:28:5-36:19
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\670f625b815a4900eedfd1b9e0cdde04\glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\670f625b815a4900eedfd1b9e0cdde04\glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\b38978de3ad901bc15905cc316b0a257\firebase-auth-interop-18.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\b38978de3ad901bc15905cc316b0a257\firebase-auth-interop-18.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\37be93d88503de7454be5a5f96957cac\play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\37be93d88503de7454be5a5f96957cac\play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\3f1cce472841f11fe16cf955f9472ba3\firebase-common-19.3.0\AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\3f1cce472841f11fe16cf955f9472ba3\firebase-common-19.3.0\AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\e9f0acc79fadc9fbad6bf080176f6020\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\e9f0acc79fadc9fbad6bf080176f6020\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\2465f099dd7150b541b6b858bc6f977b\play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\2465f099dd7150b541b6b858bc6f977b\play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\64cddd45e89bc3894cf7e46e3178d8e4\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\64cddd45e89bc3894cf7e46e3178d8e4\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\d6b398578fb6a91ae4dbe521358602cb\gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\d6b398578fb6a91ae4dbe521358602cb\gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\07660ca846398cb3c0ec9a442510d6ee\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\07660ca846398cb3c0ec9a442510d6ee\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\64cddd45e89bc3894cf7e46e3178d8e4\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:13:3-43
+	android:largeHeap
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:15:3-27
+	android:icon
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:14:3-36
+	android:allowBackup
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:12:3-29
+	android:theme
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:16:3-34
+activity#com.menha.scews.MainActivity
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:17:3-26:14
+	android:screenOrientation
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:21:4-40
+	android:configChanges
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:19:4-50
+	android:theme
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:20:4-46
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:18:4-32
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:22:4-25:20
+action#android.intent.action.MAIN
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:23:5-56
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:23:13-54
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:24:5-64
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:24:15-62
+activity#com.menha.scews.LoginArActivity
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:27:3-30:42
+	android:screenOrientation
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:30:4-40
+	android:configChanges
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:29:4-50
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:28:4-35
+activity#com.menha.scews.SignupArActivity
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:31:3-34:42
+	android:screenOrientation
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:34:4-40
+	android:configChanges
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:33:4-50
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:32:4-36
+activity#com.menha.scews.LoginIssueArActivity
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:35:3-38:42
+	android:screenOrientation
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:38:4-40
+	android:configChanges
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:37:4-50
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:36:4-40
+activity#com.menha.scews.HomepageArActivity
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:39:3-42:42
+	android:screenOrientation
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:42:4-40
+	android:configChanges
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:41:4-50
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:40:4-38
+activity#com.menha.scews.GuidelinesArActivity
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:43:3-46:42
+	android:screenOrientation
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:46:4-40
+	android:configChanges
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:45:4-50
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:44:4-40
+activity#com.menha.scews.PrivacyPolicyArActivity
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:47:3-50:42
+	android:screenOrientation
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:50:4-40
+	android:configChanges
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:49:4-50
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:48:4-43
+activity#com.menha.scews.AppShareArActivity
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:51:3-54:42
+	android:screenOrientation
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:54:4-40
+	android:configChanges
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:53:4-50
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:52:4-38
+activity#com.menha.scews.AboutUsArActivity
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:55:3-58:42
+	android:screenOrientation
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:58:4-40
+	android:configChanges
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:57:4-50
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:56:4-37
+activity#com.menha.scews.SettingsArActivity
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:59:3-62:42
+	android:screenOrientation
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:62:4-40
+	android:configChanges
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:61:4-50
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:60:4-38
+activity#com.menha.scews.RunningApplyArActivity
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:63:3-66:42
+	android:screenOrientation
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:66:4-40
+	android:configChanges
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:65:4-50
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:64:4-42
+activity#com.menha.scews.NewsArActivity
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:67:3-70:42
+	android:screenOrientation
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:70:4-40
+	android:configChanges
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:69:4-50
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:68:4-34
+activity#com.menha.scews.Need2knowArActivity
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:71:3-74:42
+	android:screenOrientation
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:74:4-40
+	android:configChanges
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:73:4-50
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:72:4-39
+activity#com.menha.scews.UniSelectContryArActivity
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:75:3-78:42
+	android:screenOrientation
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:78:4-40
+	android:configChanges
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:77:4-50
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:76:4-45
+activity#com.menha.scews.SaudiArActivity
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:79:3-82:42
+	android:screenOrientation
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:82:4-40
+	android:configChanges
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:81:4-50
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:80:4-35
+activity#com.menha.scews.TurkeyArActivity
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:83:3-86:42
+	android:screenOrientation
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:86:4-40
+	android:configChanges
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:85:4-50
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:84:4-36
+activity#com.menha.scews.EgyptArActivity
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:87:3-90:42
+	android:screenOrientation
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:90:4-40
+	android:configChanges
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:89:4-50
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:88:4-35
+activity#com.menha.scews.QatarArActivity
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:91:3-94:42
+	android:screenOrientation
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:94:4-40
+	android:configChanges
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:93:4-50
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:92:4-35
+activity#com.menha.scews.UaeArActivity
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:95:3-98:42
+	android:screenOrientation
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:98:4-40
+	android:configChanges
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:97:4-50
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:96:4-33
+activity#com.menha.scews.BruneiArActivity
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:99:3-102:42
+	android:screenOrientation
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:102:4-40
+	android:configChanges
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:101:4-50
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:100:4-36
+activity#com.menha.scews.MalaysiaArActivity
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:103:3-106:42
+	android:screenOrientation
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:106:4-40
+	android:configChanges
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:105:4-50
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:104:4-38
+activity#com.menha.scews.Iu_Activity
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:107:3-110:42
+	android:screenOrientation
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:110:4-40
+	android:configChanges
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:109:4-50
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:108:4-31
+activity#com.menha.scews.KauMActivity
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:111:3-114:42
+	android:screenOrientation
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:114:4-40
+	android:configChanges
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:113:4-50
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:112:4-32
+activity#com.menha.scews.KauHActivity
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:115:3-118:42
+	android:screenOrientation
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:118:4-40
+	android:configChanges
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:117:4-50
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:116:4-32
+activity#com.menha.scews.KsuActivity
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:119:3-122:42
+	android:screenOrientation
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:122:4-40
+	android:configChanges
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:121:4-50
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:120:4-31
+activity#com.menha.scews.UquActivity
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:123:3-126:42
+	android:screenOrientation
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:126:4-40
+	android:configChanges
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:125:4-50
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:124:4-31
+activity#com.menha.scews.ImamuActivity
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:127:3-130:42
+	android:screenOrientation
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:130:4-40
+	android:configChanges
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:129:4-50
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:128:4-33
+activity#com.menha.scews.Nu_Activity
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:131:3-134:42
+	android:screenOrientation
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:134:4-40
+	android:configChanges
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:133:4-50
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:132:4-31
+activity#com.menha.scews.PnuActivity
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:135:3-138:42
+	android:screenOrientation
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:138:4-40
+	android:configChanges
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:137:4-50
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:136:4-31
+activity#com.menha.scews.Tu_Activity
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:139:3-142:42
+	android:screenOrientation
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:142:4-40
+	android:configChanges
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:141:4-50
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:140:4-31
+activity#com.menha.scews.Mu_Activity
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:143:3-146:42
+	android:screenOrientation
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:146:4-40
+	android:configChanges
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:145:4-50
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:144:4-31
+activity#com.menha.scews.NbuActivity
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:147:3-150:42
+	android:screenOrientation
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:150:4-40
+	android:configChanges
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:149:4-50
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:148:4-31
+activity#com.menha.scews.Ju_Activity
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:151:3-154:42
+	android:screenOrientation
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:154:4-40
+	android:configChanges
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:153:4-50
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:152:4-31
+activity#com.menha.scews.UhbActivity
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:155:3-158:42
+	android:screenOrientation
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:158:4-40
+	android:configChanges
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:157:4-50
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:156:4-31
+activity#com.menha.scews.TaibahuActivity
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:159:3-162:42
+	android:screenOrientation
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:162:4-40
+	android:configChanges
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:161:4-50
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:160:4-35
+activity#com.menha.scews.JazanuActivity
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:163:3-166:42
+	android:screenOrientation
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:166:4-40
+	android:configChanges
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:165:4-50
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:164:4-34
+activity#com.menha.scews.Ut_Activity
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:167:3-170:42
+	android:screenOrientation
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:170:4-40
+	android:configChanges
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:169:4-50
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:168:4-31
+activity#com.menha.scews.IauActivity
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:171:3-174:42
+	android:screenOrientation
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:174:4-40
+	android:configChanges
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:173:4-50
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:172:4-31
+activity#com.menha.scews.KkuActivity
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:175:3-178:42
+	android:screenOrientation
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:178:4-40
+	android:configChanges
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:177:4-50
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:176:4-31
+activity#com.menha.scews.WelcomeArActivity
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:179:3-183:42
+	android:screenOrientation
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:183:4-40
+	android:configChanges
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:181:4-50
+	android:theme
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:182:4-46
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:180:4-37
+activity#com.menha.scews.SimpleActivity
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:184:3-187:42
+	android:screenOrientation
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:187:4-40
+	android:configChanges
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:186:4-50
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:185:4-34
+activity#com.menha.scews.IsdbActivity
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:188:3-191:42
+	android:screenOrientation
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:191:4-40
+	android:configChanges
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:190:4-50
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:189:4-32
+activity#com.menha.scews.BrowserActivity
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:192:3-194:52
+	android:configChanges
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:194:4-50
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:193:4-35
+activity#com.menha.scews.BrowserErrorActivity
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:195:3-198:42
+	android:screenOrientation
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:198:4-40
+	android:configChanges
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:197:4-50
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:196:4-40
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:199:3-201:59
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\2465f099dd7150b541b6b858bc6f977b\play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\2465f099dd7150b541b6b858bc6f977b\play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:201:4-57
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:200:4-49
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:202:3-206:29
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\3f1cce472841f11fe16cf955f9472ba3\firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\3f1cce472841f11fe16cf955f9472ba3\firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
+	android:authorities
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:204:4-62
+	android:exported
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:205:4-28
+	android:initOrder
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:206:4-27
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:203:4-68
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:207:3-213:13
+MERGED from [com.google.firebase:firebase-database:19.2.1] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\29aa42da2f826000f5d1c394f05ac74a\firebase-database-19.2.1\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-database:19.2.1] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\29aa42da2f826000f5d1c394f05ac74a\firebase-database-19.2.1\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\3f1cce472841f11fe16cf955f9472ba3\firebase-common-19.3.0\AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\3f1cce472841f11fe16cf955f9472ba3\firebase-common-19.3.0\AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:209:4-28
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\3f1cce472841f11fe16cf955f9472ba3\firebase-common-19.3.0\AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\3f1cce472841f11fe16cf955f9472ba3\firebase-common-19.3.0\AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:208:4-75
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:210:4-212:72
+MERGED from [com.google.firebase:firebase-database:19.2.1] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\29aa42da2f826000f5d1c394f05ac74a\firebase-database-19.2.1\AndroidManifest.xml:32:13-34:85
+MERGED from [com.google.firebase:firebase-database:19.2.1] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\29aa42da2f826000f5d1c394f05ac74a\firebase-database-19.2.1\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:212:5-70
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:211:5-97
+uses-library#org.apache.http.legacy
+ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:214:3-216:30
+	android:required
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:216:4-28
+	android:name
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml:215:4-41
+uses-sdk
+INJECTED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\299b341910a01778c1031d8bc586e870\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\299b341910a01778c1031d8bc586e870\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\deae1025afce5eec85ff8ccbcc9e7c1f\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\deae1025afce5eec85ff8ccbcc9e7c1f\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-database:19.2.1] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\29aa42da2f826000f5d1c394f05ac74a\firebase-database-19.2.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:19.2.1] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\29aa42da2f826000f5d1c394f05ac74a\firebase-database-19.2.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\670f625b815a4900eedfd1b9e0cdde04\glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\670f625b815a4900eedfd1b9e0cdde04\glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\a4212b4de23e474bf4daad6e4951aaee\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\a4212b4de23e474bf4daad6e4951aaee\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\b38978de3ad901bc15905cc316b0a257\firebase-auth-interop-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\b38978de3ad901bc15905cc316b0a257\firebase-auth-interop-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\37be93d88503de7454be5a5f96957cac\play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\37be93d88503de7454be5a5f96957cac\play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\3f1cce472841f11fe16cf955f9472ba3\firebase-common-19.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\3f1cce472841f11fe16cf955f9472ba3\firebase-common-19.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\e9f0acc79fadc9fbad6bf080176f6020\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\e9f0acc79fadc9fbad6bf080176f6020\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\2465f099dd7150b541b6b858bc6f977b\play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\2465f099dd7150b541b6b858bc6f977b\play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\09c714b0217baa06cc11f82a42f808d7\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\09c714b0217baa06cc11f82a42f808d7\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\eea3c3379f1143f4ea143ac500464bfe\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\eea3c3379f1143f4ea143ac500464bfe\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\06b812f6d774b24152207909eeade351\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\06b812f6d774b24152207909eeade351\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\192eda949ad795e15bd17fc9b0e814a6\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\192eda949ad795e15bd17fc9b0e814a6\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\67683a0eeac071989693f58740fd22e9\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\67683a0eeac071989693f58740fd22e9\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\bf1332ee565e502eb50b0443b6d962bf\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\bf1332ee565e502eb50b0443b6d962bf\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\4c101d10aee151684f1d60fff95912c7\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\4c101d10aee151684f1d60fff95912c7\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\17f9bddc9992d9e356f424e919c9a01c\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\17f9bddc9992d9e356f424e919c9a01c\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\c3c67a6b0c567715c1b761e2bc561a80\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\c3c67a6b0c567715c1b761e2bc561a80\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\1c4c8673f0e741e0bcbd9526ca6b8b67\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\1c4c8673f0e741e0bcbd9526ca6b8b67\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\14c9a7f7e0895a28c40b2aeb1236e906\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\14c9a7f7e0895a28c40b2aeb1236e906\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\88885b8afb892f2c4c92950308f02240\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\88885b8afb892f2c4c92950308f02240\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\64cddd45e89bc3894cf7e46e3178d8e4\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\64cddd45e89bc3894cf7e46e3178d8e4\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\102edf060ace7f6700d22f562ffc82af\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\102edf060ace7f6700d22f562ffc82af\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\a4fafc86370755d7c904d03ef3971083\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\a4fafc86370755d7c904d03ef3971083\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\79ec9f0fb008e367a10ee5adcc081489\firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\79ec9f0fb008e367a10ee5adcc081489\firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\d6b398578fb6a91ae4dbe521358602cb\gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\d6b398578fb6a91ae4dbe521358602cb\gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\51fbd676cad088c8a4d58d2bba77ef58\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\51fbd676cad088c8a4d58d2bba77ef58\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\07660ca846398cb3c0ec9a442510d6ee\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\07660ca846398cb3c0ec9a442510d6ee\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\11f25004d330e2f547128b83f4573f71\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\11f25004d330e2f547128b83f4573f71\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\f7483b19bb1e83b1018e6bf27f210e99\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\f7483b19bb1e83b1018e6bf27f210e99\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\5e17b2c11736659b6b2e8c71ecf06d4b\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\5e17b2c11736659b6b2e8c71ecf06d4b\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\d1e480b7a3e38bc5bb2c563b2e91c373\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\d1e480b7a3e38bc5bb2c563b2e91c373\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\54bb5691b6f84ec3f5721158cbfd6093\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\54bb5691b6f84ec3f5721158cbfd6093\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\595abc47a2d4a55785d80658cffde5e2\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\595abc47a2d4a55785d80658cffde5e2\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\d4f6c3b74c9a46c978ee06464d9d874f\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\d4f6c3b74c9a46c978ee06464d9d874f\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\58f236cbc26449ac082fe05f157232b7\firebase-database-collection-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\58f236cbc26449ac082fe05f157232b7\firebase-database-collection-17.0.0\AndroidManifest.xml:5:5-44
+INJECTED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rasel\AndroidStudioProjects\scEWS\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\37be93d88503de7454be5a5f96957cac\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\37be93d88503de7454be5a5f96957cac\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\37be93d88503de7454be5a5f96957cac\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\rasel\.gradle\caches\transforms-2\files-2.1\37be93d88503de7454be5a5f96957cac\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
